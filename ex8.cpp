@@ -33,7 +33,7 @@ int main() {
   }
 
   cout << "Max Element : " << maxElement << endl;
-  cout << "Max Element cords : " << maxElR + 1 << " and " << maxELC + 1 << endl;
+  cout << "Max Element cords :   Row " << maxElR + 1 << " and Column" << maxELC + 1 << endl;
   sum = 0;
 
   return 0;
